@@ -1,4 +1,4 @@
-## Olá! Eu sou o Luiz Gomes
+## Olá! Me chamo Luiz Gomes
 - 🔭 Ainda em busca da primeira oportunidade na área
 - 🌱 Atualmente estou aprendendo Java e SpringBoot
 - 📫 Contate-me no email: gomesluiz522@gmail.com
