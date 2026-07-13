@@ -8,18 +8,17 @@
 
 ## 🚀 Stack Principal
 
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) 
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) 
-![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) 
-![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg) 
-![MySQL](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="40" height="40" alt="MySQL"/>
 
 ## 🛠️ Ferramentas
 
-![Git](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png) 
-![GitHub](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png) 
-![VS Code](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png)
-![Astah](https://img.shields.io/badge/-Astah-4A4A4A?style=flat&logo=diagramsdotnet&logoColor=white)
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="40" height="40" alt="Git"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="40" height="40" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="40" height="40" alt="VS Code"/>
 
 ## 📌 Projeto em destaque
 
@@ -27,6 +26,16 @@
 
 ## 🌐 Redes
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gomes.lfa/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/stazvlr)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gomes-3088b12b7/)
+## 🌐 Redes
+
+<a href="https://www.instagram.com/gomes.lfa/" target="_blank">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/instagram.png" width="40" height="40" alt="Instagram"/>
+</a>
+
+<a href="https://www.twitch.tv/stazvlr" target="_blank">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/twitch.png" width="40" height="40" alt="Twitch"/>
+</a>
+
+<a href="https://www.linkedin.com/in/luiz-gomes-3088b12b7/" target="_blank">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+</a>
