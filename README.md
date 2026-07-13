@@ -50,11 +50,7 @@ Aplicação web para gestão de plantões em ambientes hospitalares, permitindo 
   <a href="https://www.instagram.com/gomes.lfa/">
     <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
-
-  <a href="https://www.twitch.tv/stazvlr">
-    <img src="https://skillicons.dev/icons?i=twitch" height="45"/>
-  </a>
-
+  
   <a href="https://www.linkedin.com/in/luiz-gomes-3088b12b7/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
