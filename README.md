@@ -26,16 +26,16 @@
 
 ## 🌐 Redes
 
-## 🌐 Redes
-
-<a href="https://www.instagram.com/gomes.lfa/" target="_blank">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/instagram.png" width="40" height="40" alt="Instagram"/>
-</a>
-
-<a href="https://www.twitch.tv/stazvlr" target="_blank">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/twitch.png" width="40" height="40" alt="Twitch"/>
-</a>
-
-<a href="https://www.linkedin.com/in/luiz-gomes-3088b12b7/" target="_blank">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linkedin.png" width="40" height="40" alt="LinkedIn"/>
-</a>
+<p>
+  <a href="https://www.instagram.com/gomes.lfa/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.twitch.tv/stazvlr" target="_blank">
+    <img src="https://cdn.simpleicons.org/twitch/9146FF" width="40" height="40" alt="Twitch"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/luiz-gomes-3088b12b7/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn"/>
+  </a>
+</p>
